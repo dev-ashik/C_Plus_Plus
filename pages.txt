@@ -1,0 +1,8 @@
+12/2/2023
+1. Home
+2. Intro
+3. get started
+4. syntax
+5. Output
+	print Text
+	New Lines
