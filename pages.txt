@@ -6,3 +6,18 @@
 5. Output
 	print Text
 	New Lines
+6. comments
+7. variables
+8. user input
+9. Data Types
+10. Operators
+11. Strings
+12. Math
+13. Booleans
+14. Conditions
+15. Switch
+16. While loop
+17. Foor loop
+18. Break/Continue
+19. Arrays
+20. Structures
